@@ -1,0 +1,34 @@
+.pageHeader{
+    text-align: center;
+    padding-bottom: 3em;
+    } 
+
+.interest {
+    border: 1px dotted crimson; 
+     padding: 1em;
+    margin: 1em;
+    flex-basis: 16%;
+    text-align: center;
+}
+
+.bio interest {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    border: 1px solid black;
+}  
+
+.list{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+.shop{
+    flex-basis: 25%;
+    border: 1px dotted black;
+    margin: 0 1em 0 1em;
+    text-align: center; 
+}
+
+
